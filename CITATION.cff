@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "OpenMontage"
+type: software
+authors:
+  - family-names: Maule
+    given-names: Alessandro
+    alias: Light Yagami
+    email: maule2703@gmail.com
+license: AGPL-3.0-or-later
+repository-code: "https://github.com/LightYagami28/OpenMontage"
+url: "https://openmontage.video"
+date-released: "2026-11-23"
+abstract: >-
+  Open-source, agentic video production system: production pipelines, agent
+  skills and production knowledge that turn a coding assistant into a video
+  production studio. This repository is a fork of OpenMontageInc/OpenMontage.
