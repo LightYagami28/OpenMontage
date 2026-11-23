@@ -117,7 +117,7 @@ OpenMontage 可以从 **YouTube 视频、Short、Reel、TikTok 或本地片段**
 
 ### 必备条件
 
-- **Python 3.10+** — [python.org](https://www.python.org/downloads/)
+- **Python 3.12+** - [python.org](https://www.python.org/downloads/)
 - **FFmpeg** — `brew install ffmpeg` / `sudo apt install ffmpeg` / [ffmpeg.org](https://ffmpeg.org/download.html)
 - **Node.js** — 使用已修复的 22.x（22.23.4+）、24.x（24.22.1+）或 26.x（26.12.1+）版本；`.node-version` 选择 22.23.4 — [nodejs.org](https://nodejs.org/)
 - **一款 AI 编程助手** — Claude Code、Cursor、Copilot、Windsurf 或 Codex

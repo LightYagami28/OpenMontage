@@ -175,7 +175,7 @@ And when a run is done, hit **▶ REPLAY RUN** — the whole production replays 
 
 ### Prerequisites
 
-- **Python 3.10+** — [python.org](https://www.python.org/downloads/)
+- **Python 3.12+** - [python.org](https://www.python.org/downloads/)
 - **FFmpeg** — `brew install ffmpeg` / `sudo apt install ffmpeg` / [ffmpeg.org](https://ffmpeg.org/download.html)
 - **Node.js** — a patched release on the 22.x (22.23.4+), 24.x (24.22.1+), or 26.x (26.12.1+) line; `.node-version` selects 22.23.4 — [nodejs.org](https://nodejs.org/)
 - **An AI coding assistant** — Claude Code, Cursor, Copilot, Windsurf, or Codex
