@@ -11,25 +11,31 @@
     "upgrade": "npx remotion upgrade"
   },
   "dependencies": {
-    "@remotion/captions": "^4.0.484",
-    "@remotion/cli": "^4.0.484",
-    "@remotion/google-fonts": "^4.0.484",
-    "@remotion/media": "^4.0.484",
-    "@remotion/player": "^4.0.484",
-    "@remotion/transitions": "^4.0.484",
-    "d3-geo": "^3.1.1",
-    "fast-uri": "^3.1.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "remotion": "^4.0.484",
+    "@remotion/captions": "^4.0.545",
+    "@remotion/cli": "^4.0.545",
+    "@remotion/google-fonts": "^4.0.545",
+    "@remotion/media": "^4.0.545",
+    "@remotion/player": "^4.0.545",
+    "@remotion/transitions": "^4.0.545",
+    "d3-geo": "^3.1.2",
+    "fast-uri": "^4.2.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.545",
     "topojson-client": "^3.1.0",
     "world-atlas": "^2.0.2"
   },
   "devDependencies": {
-    "@types/react": "^18.2.0",
-    "typescript": "^5.3.0"
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "^7.0.2"
   },
   "overrides": {
-    "nanoid": "3.3.18"
+    "nanoid": "3.3.18",
+    "baseline-browser-mapping": "^2.11.39",
+    "browserslist": "^4.29.6",
+    "postcss-selector-parser": "^7.2.1",
+    "source-map-js": "^1.2.4",
+    "zod": "^4.6.7"
   }
 }
