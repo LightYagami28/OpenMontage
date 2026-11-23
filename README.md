@@ -753,11 +753,11 @@ make test
 
 ## Star History
 
-<a href="https://star-history.dera.page/#calesthio/OpenMontage&type=date&legend=top-left">
+<a href="https://star-history.com/#calesthio/OpenMontage&type=date&legend=top-left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=calesthio/OpenMontage&type=date&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=calesthio/OpenMontage&type=date&legend=top-left" />
-    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=calesthio/OpenMontage&type=date&legend=top-left" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=calesthio/OpenMontage&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=calesthio/OpenMontage&type=date&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=calesthio/OpenMontage&type=date&legend=top-left" />
   </picture>
 </a>
 
