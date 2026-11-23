@@ -177,7 +177,7 @@ Y cuando una ejecución termina, pulsa **▶ REPLAY RUN**: toda la producción s
 
 ### Requisitos Previos
 
-- **Python 3.10+** — [python.org](https://www.python.org/downloads/)
+- **Python 3.12+** - [python.org](https://www.python.org/downloads/)
 - **FFmpeg** — `brew install ffmpeg` / `sudo apt install ffmpeg` / [ffmpeg.org](https://ffmpeg.org/download.html)
 - **Node.js** — una versión con los parches de seguridad de las ramas 22.x (22.23.4+), 24.x (24.22.1+) o 26.x (26.12.1+); `.node-version` selecciona 22.23.4 — [nodejs.org](https://nodejs.org/)
 - **Un asistente de código con IA** — Claude Code, Cursor, Copilot, Windsurf o Codex
