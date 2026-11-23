@@ -11,17 +11,17 @@
     "upgrade": "npx remotion upgrade"
   },
   "dependencies": {
-    "@remotion/captions": "^4.0.545",
-    "@remotion/cli": "^4.0.545",
-    "@remotion/google-fonts": "^4.0.545",
-    "@remotion/media": "^4.0.545",
-    "@remotion/player": "^4.0.545",
-    "@remotion/transitions": "^4.0.545",
+    "@remotion/captions": "^4.0.546",
+    "@remotion/cli": "^4.0.546",
+    "@remotion/google-fonts": "^4.0.546",
+    "@remotion/media": "^4.0.546",
+    "@remotion/player": "^4.0.546",
+    "@remotion/transitions": "^4.0.546",
     "d3-geo": "^3.1.2",
     "fast-uri": "^4.2.3",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
-    "remotion": "^4.0.545",
+    "remotion": "^4.0.546",
     "topojson-client": "^3.1.0",
     "world-atlas": "^2.0.2"
   },
@@ -31,7 +31,7 @@
     "typescript": "^7.0.2"
   },
   "overrides": {
-    "nanoid": "3.3.18",
+    "nanoid": "3.3.20",
     "baseline-browser-mapping": "^2.11.39",
     "browserslist": "^4.29.6",
     "postcss-selector-parser": "^7.2.1",
