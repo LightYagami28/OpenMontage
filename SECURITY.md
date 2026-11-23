@@ -14,7 +14,9 @@ applied to the tip of `main` in this fork only.
 ## Reporting a Vulnerability
 
 Please do **not** open a public issue for a suspected vulnerability. Send the
-details to <developer@lightyagami.dev> instead, including:
+details through GitHub's private vulnerability reporting for this repository
+([Report a vulnerability](https://github.com/LightYagami28/OpenMontage/security/advisories/new)),
+including:
 
 - the affected component and the revision you tested;
 - steps to reproduce and a proof of concept, if available;
